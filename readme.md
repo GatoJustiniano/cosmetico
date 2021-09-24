@@ -1,7 +1,7 @@
 ## Proyecto base
 
 Este proyecto está con la versión Laravel 6.X, para el desarrollo de una tienda virtual de cosméticos.
-
+proyecto descontinuado
 ## Nota
 
 No robarme el proyecto, robar es malo. 
